@@ -1,0 +1,250 @@
+body {
+	padding: 54px 52px;
+}
+header{
+	margin-bottom: 44px
+}
+img {
+	vertical-align: middle;
+}
+nav {
+	display: inline;
+	vertical-align: middle;
+	list-style: none;
+}
+ul{
+	display: inline;
+	vertical-align: sub;
+	list-style: none;
+}
+li {
+	display: inline;
+	list-style: none;
+	margin-left: 60px;
+	
+} 
+a{
+	font-size: 26px;
+	font-weight: ;
+	color:#8D81FF ;
+	style: none;
+		text-decoration: none;
+}
+.active{
+	color: #4E6FAE ;
+		text-decoration: none;
+}
+.day{
+	    width: 50px;
+    height: 30px;
+    font-size: 20px;
+    background-color: #5012D5;
+    color: #84FF81;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 3px;
+    font-weight: 400;
+    margin-bottom: 18px;
+
+}
+
+h2{
+font-family: FBPG Nino Mkhedruli;
+font-size: 24px;
+font-weight: 400;
+line-height: 28.8px;
+text-align: left;
+color:#8D81FF;
+margin-bottom: 18px;
+}
+
+h3{
+font-family: GL Tatishvili Metal;
+font-size: 20px;
+font-weight: 700;
+line-height: 24px;
+text-align: left;
+ color: #4E6FAE;
+margin-bottom: 18px;
+}
+
+p {
+	font-size: 16px;
+	font-weight: 400;
+	color: #4E6FAE;
+
+ 
+}
+.article1banner{
+	vertical-align: top;
+}
+div .article1{
+	font-family: GL Kirovi;
+	width: 778px;
+	display: inline-block;
+	vertical-align: text-top;
+	padding-left: 66px;
+}
+.article2{
+	font-family: GL Kirovi;
+}
+p .list{
+	display: block;
+}
+.devider{
+	display: inline-block;
+	border: 2px solid #5012D5;
+	height: 45px;
+	vertical-align: middle;
+	margin: 0 41px;
+
+}
+
+
+.banner{
+	display: block;
+	padding-bottom: 80px;
+	margin-left: 150px;
+	width: 1052px;
+height: 462px;
+top: -327px;
+left: 885px;
+gap: 0px;
+opacity: 0px;
+
+}
+
+
+.header2{
+	display: inline;
+	color: #4E6FAE;
+	font-size: 26px;
+	font-weight: ;
+	font-family: FiraGo;
+	font-weight: 700;
+	margin-left: 150px;
+}
+
+.devider2{
+	display: inline-block;
+	border: 2px solid #5012D5;
+	height: 20px;
+	vertical-align: middle;
+	margin: 0 41px;
+}
+
+span{
+	color: #4E6FAE;
+	font-size: 26px;
+	font-weight: ;
+	font-family: FiraGo;
+	font-weight: 400;
+
+}
+
+.lupa{
+margin-left: ;
+background-color: #E7E7E7;
+width: 500px;
+height: 192px;
+top: 315px;
+left: 885px;
+gap: 0px;
+opacity: 0px;
+ 
+ display: inline-block;
+ margin-left: 150px;
+
+}
+.lupasatauri{
+margin-left: 35px;
+margin-bottom: 10px ;
+font-family: Roboto;
+padding-top: 30px;
+font-size: 20px;
+color: #3F4145;
+;
+}
+.allthree{
+	vertical-align: middle;
+}
+.textidafoto{
+	display: inline;
+	vertical-align: middle;
+
+}
+.photo{
+	display: inline;
+	float: left;
+	width: 77px;
+	height: 77px;
+	paddinp-top:40px;
+	margin-left: 30px;
+}
+
+
+.text1{
+	font-family: Roboto;
+	display: inline-block;
+	vertical-align: text-top;
+	width: 335px;
+	padding-left: 30px;
+ 	font-size: 16px;
+	font-weight: 400;
+	display: inline-block;
+color:  rgba(126, 136, 152, 1);
+
+
+}
+
+.lupa2{
+background-color: #E7E7E7;
+width: 500px;
+height: 192px;
+top: 315px;
+left: 885px;
+gap: 0px;
+opacity: 0px;
+ 
+ display: inline-block;
+ margin-left: 40px;
+}
+.footer2 {
+	margin-left: 150px;
+	margin-top: 50px;
+}
+.contaccttt{
+	font-family: Helvetica Neue;
+font-size: 36px;
+font-weight: 700;
+line-height: 43.96px;
+text-align: left;
+color: #4E6FAE;
+margin-left: 100px;
+padding-top: 100px;
+}
+.contactinfo{
+	margin-left: 100px;
+}
+.contacts{
+	
+	height: 735px;
+	background-color: #E7E7E7;
+margin: 0;
+padding: 0;
+border: 0;
+
+}
+.point2{
+	font-size: 20px;
+
+}
+iframe{
+width: 900px;
+height: 549px;
+top: -288px;
+left: 2838px;
+gap: 0px;
+opacity: 0px;
+float: right;
+}
